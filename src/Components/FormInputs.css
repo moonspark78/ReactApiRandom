@@ -1,0 +1,10 @@
+.container input{
+    width: 250px;
+    margin-bottom: 9px;
+    padding: 8px;
+}
+
+.container button{
+    width: 90px;
+    padding: 4px;
+}
