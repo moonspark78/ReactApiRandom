@@ -12,6 +12,8 @@ export const FormInputs = () => {
         console.log(objData);
     };
 
+    console.log(objData);
+
 
 
 
