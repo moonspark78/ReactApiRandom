@@ -1,0 +1,16 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.coloo{
+    border: solid 1px black;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
