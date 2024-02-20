@@ -7,18 +7,10 @@ export const FormInputs = () => {
         let data = {[name]: value}
         setObjData({...objData, ...data});
     };
-
     const submit = () =>{
         console.log(objData);
     };
-
     console.log(objData);
-
-
-
-
-
-
   return (
     <div className='container'>
         <input type='text' name='name' placeholder='Enter Your name' onChange={(e) => getInputs(e.target.name, e.target.value)} />
